@@ -1,0 +1,19 @@
+.paragraph {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#num-2{
+    color: blue;
+    font-size: 36px;
+}
+
+.p-big{
+    font-size: 24px;
+}
+
+#num-4{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
